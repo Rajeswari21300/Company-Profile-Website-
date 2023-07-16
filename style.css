@@ -1,0 +1,198 @@
+body {
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+h6,
+h5,
+a {
+    font-family: "Montserrat";
+    font-weight: bold;
+}
+
+.colored-section {
+    background-color: #25316D;
+    color: white;
+
+}
+
+/* Navbar */
+
+#title {
+    height: 90%;
+}
+
+.navbar-custom {
+    padding: 50px;
+    font-family: 'Montserrat';
+
+}
+
+.navbar a {
+    padding-left: 40px;
+
+}
+
+.navbar ul {
+    margin-right: 40px;
+    padding: 0 10px;
+
+}
+
+/* Title Section */
+
+.banner h1 {
+    font-size: 3.5rem;
+    font-weight: lighter;
+}
+
+.title-content {
+    padding-top: 70px;
+    margin-left: 210px;
+
+}
+
+.banner img {
+    width: 80%;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+
+.container {
+    margin: 60px;
+    padding: 0%;
+}
+
+/* Title and Navbar section - END */
+
+/* About us */
+#about-us {
+    padding: 4px 0 5px;
+}
+
+.aboutus {
+    margin-right: 100px;
+}
+
+.aboutus h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.aboutus img {
+    margin-left: 20%;
+    width: 60%;
+}
+
+.aboutus p {
+    text-align: justify;
+    padding-left: 30px
+}
+
+/* END ABOUT US */
+
+/* Options button section */
+
+#options {
+    height: 60%;
+    text-align: center;
+}
+
+.btn-options {
+    margin-top: 100px;
+}
+
+.btn-options a {
+    margin: 0 30px;
+    padding: 5px 14px;
+}
+
+.option-title {
+    padding-top: 90px;
+    margin-top: 10px;
+}
+
+/* END option button */
+/* Msg Section */
+#msg {
+    padding: 5%;
+}
+
+#msg h1 {
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+#msg p {
+    text-align: justify;
+    font-size: 14px;
+}
+
+/* Footer - contact */
+#contact {
+    height: 35%;
+    padding: 5% 8% 0 39%;
+
+}
+
+#contact pre {
+    padding-left: 150px;
+
+}
+
+
+/* service page */
+
+
+#top {
+    height: 50%;
+    /* position: absolute; */
+}
+
+.heading {
+    text-align: center;
+    font-weight: 500;
+
+}
+
+.content {
+    position: relative;
+    left: 460px;
+    bottom: 160px;
+    width: 650px;
+    font-size: 17px;
+    text-align: justify;
+}
+
+/* Why Us page */
+
+#whyus-top{
+    height: 50%;
+} 
+
+.whyus-content {
+   width: 700px;
+   position: relative;
+    left: 400px;
+    bottom: 160px;
+    font-size: 17px;
+    text-align: justify;
+}
+
+/* project page */
+
+#project-top {
+    height: 30%;
+}
+
+.content-project {
+    padding: 50px 100px 50px;
+
+}
+
+.content-project h5{
+    font-weight: bolder;
+}
